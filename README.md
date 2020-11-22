@@ -6,7 +6,7 @@ Buscador de trabajo en GithubJobs
 
 ### Visita el proyecto.
 
-[Visita el proyecto](https://cartelerafilms.herokuapp.com/)
+[Visita el proyecto](https://miguelpl32.github.io/Buscador_Empleo/)
 
 ![](portada-buscador-job.jpg)
 
